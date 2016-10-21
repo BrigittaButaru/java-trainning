@@ -1,5 +1,5 @@
 package tema1;
-
+asd
 public class Palindrome {
 
 	static boolean IsPalindrom(String input)
